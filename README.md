@@ -12,7 +12,7 @@ Well for now, after the site is setup, ssh into the vm and import your data from
 
 > mysql -uroot -proot drupal_dev < your_dump_file.sql
 
-I am working on an automaitc solutions but this one is giving me some fits. Will have a fix for that soon.
+I am working on an automaitc solution. Will have that out soon.
 
 ##Some details about my setup:
 
