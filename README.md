@@ -7,8 +7,12 @@ Mac or Linux Machine. I am working on a Windows release but I am trying to figur
 
 Clone in your sites/default directory of your existing Drupal site from your repo or a fresh copt from Drupal.org.
 
-##WHAT ABOUT MY DATABASE?
-Well for now, dump you database into a files named "export.sql" and place into the VagrantDrupal7 folder. The setup will look for this file when setting up you dev environment.
+##WHAT ABOUT MY DATABASE FOR AN EXISTING SITE?
+Well for now, after the site is setup, ssh into the vm and import your data from a dump file.
+
+> mysql -uroot -proot drupal_dev < your_dump_file.sql
+
+I am working on an automaitc solutions but this one is giving me some fits. Will have a fix for that soon.
 
 ##Some details about my setup:
 
