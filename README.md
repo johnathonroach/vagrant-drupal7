@@ -7,7 +7,7 @@ A Vagrant Drupal dev environment setup that I think is rather swell.
 - Mac or Linux Machine.
 - I am working on a Windows release but I am trying to figure out if I should do a PowerShell, CYGWIN or something else.
 
-Clone in your sites/default directory of your existing Drupal site from your repo or a fresh copt from Drupal.org.
+Clone in your sites/default directory of your existing Drupal site from your repo or a fresh copy from Drupal.org.
 
 ##Some details about my setup:
 
