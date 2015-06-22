@@ -3,6 +3,7 @@ A Vagrant Drupal dev environment setup that I think is rather swell.
 
 ##REQUIREMENTS
 - Virtual Box
+- Vagrant
 - Mac or Linux Machine.
 - I am working on a Windows release but I am trying to figure out if I should do a PowerShell, CYGWIN or something else.
 
